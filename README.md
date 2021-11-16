@@ -49,3 +49,18 @@ There are 3 different types of design patterns. These design patterns are listed
 
 ## C. Class and Object Scopes Patterns
 
+- Class Scopes Patterns
+  - These are patterns that deals with relationships between classes and their subclasses.
+  - Examples od Class Scope patterns are:
+    - Factory and Abstract Factory - **Creational pattern**
+      - They defers object creation to subclasses
+    - Interpreter and Template - **Behavioral pattern**
+      - It describes algorithms and flow control
+- Objects Scopes Patterns
+  - These are patterns that deals more with relationship that can be altered at runtime.
+    - Builder, Prototype and Singleton - **Creational pattern**
+      - it defers object creation to object
+    - Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy - **Strutural pattern**
+      - it describes a way to assemble objects.
+    - Chain of Responsibility, Command, Iterator, Mediator,Memento, Observer, State, Strategy, Visitor - **Behavioral pattern**
+      - it describes how group of objects co-operate 
