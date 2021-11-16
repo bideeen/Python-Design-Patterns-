@@ -13,9 +13,9 @@ There are 3 different types of design patterns. These design patterns are listed
    - These pattern abstracts the instantiation process so that there is a logical seperation between how objects are composed and finally represented.
 
    - Kind of Creational Patterns 
-        - [Abstract Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
+        - [Abstract Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/Abstract%20Factory)
         - [Builder](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
-        - [Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
+        - [Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/factory)
         - [Prototype](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
         - [Singleton](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
    
