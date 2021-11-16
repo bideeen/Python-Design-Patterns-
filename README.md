@@ -13,7 +13,7 @@ There are 3 different types of design patterns. These design patterns are listed
    - These pattern abstracts the instantiation process so that there is a logical seperation between how objects are composed and finally represented.
 
    - Kind of Creational Patterns 
-        - https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory
+        - [Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
    
 - Structural Patterns
    - These pattern focuses on how classes and object are composed using the different structural techniques, and to form structuress with more or altered flexibility.
