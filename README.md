@@ -9,7 +9,7 @@
 
 ## B. Types of Design Pattern
 There are 3 different types of design patterns. These design patterns are listed below:
-- Creational Patterns
+- [Creational Patterns](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns)
    - These pattern abstracts the instantiation process so that there is a logical seperation between how objects are composed and finally represented.
 
    - Kind of Creational Patterns 
