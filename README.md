@@ -14,10 +14,10 @@ There are 3 different types of design patterns. These design patterns are listed
 
    - Kind of Creational Patterns 
         - [Abstract Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/Abstract%20Factory)
-        - [Builder](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
+        - [Builder](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/Builder)
         - [Factory](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/factory)
-        - [Prototype](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
-        - [Singleton](https://github.com/bideeen/Python-Design-Patterns-/tree/main/factory)
+        - [Prototype](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/Prototype)
+        - [Singleton](https://github.com/bideeen/Python-Design-Patterns-/tree/main/Creational%20Patterns/Singleton)
    
 - Structural Patterns
    - These pattern focuses on how classes and object are composed using the different structural techniques, and to form structuress with more or altered flexibility.
